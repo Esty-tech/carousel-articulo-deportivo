@@ -37,3 +37,12 @@
 @media screen and (max-device-width: 480px) {
 	ul li { width: 150px; }
 }
+.carousel-caption{
+	min-width: 250px;
+	display: block;
+	border-radius: 2px;
+	font-size: small;
+}
+.item active{
+	border: 1px;
+}
